@@ -1,7 +1,7 @@
-#ì†Œê¸ˆë¬¼ ë†ë„ êµ¬í•˜ê¸°
+#¼Ò±Ý¹° ³óµµ ±¸ÇÏ±â
 
 salt <- 50
 water <- 100
 result <- salt / (salt + water) * 100
-cat ("ì†Œê¸ˆ=",salt,"ë¬¼=",water,"ë†ë„:",result,"%")
+cat ("¼Ò±ÝÀÇ ¾ç=",salt,"¹°ÀÇ ¾ç=",water,"¼Ò±Ý¹°ÀÇ ³óµµ:",result,"%")
 
